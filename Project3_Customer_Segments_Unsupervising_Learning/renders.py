@@ -9,6 +9,7 @@ def pca_results(good_data, pca):
 	Create a DataFrame of the PCA results
 	Includes dimension feature weights and explained variance
 	Visualizes the PCA results
+	Especially notice the cumulative explained variance.
 	'''
 
 	# Dimension indexing
